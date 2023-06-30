@@ -26,7 +26,7 @@ This the [video description](https://drive.google.com/file/d/1BLSY-tEE1j0gQWYguQ
 
 To get a local copy up and running follow these simple example steps.
 
-## Getting Started with these project
+## Getting Started with this project
  ### pre requests
  - [ ] HTML knowledge
  - [ ] CSS knowledge
